@@ -62,16 +62,22 @@ I also enjoy building **scalable web applications** and exploring **modern backe
 
 ---
 
-## 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthiknair3002&show_icons=true&theme=dark" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=karthiknair3002&show_icons=true&theme=dark&cache_seconds=1800"
+    alt="GitHub Stats"
+  />
 </p>
 
-## 🔥 GitHub Streak
+<h2>🔥 GitHub Streak</h2>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=karthiknair3002&theme=dark" />
+  <img 
+    src="https://streak-stats.demolab.com?user=karthiknair3002&theme=dark&cache_seconds=1800"
+    alt="GitHub Streak"
+  />
 </p>
->
+
 
 ---
 
