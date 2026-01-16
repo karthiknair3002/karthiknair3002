@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Karthik Nair
 
 ## 🚀 About Me
-I'm currently working on **machine learning and backend development projects**,  
+I'm currently working on **machine learning,frontend development projects and  backend development projects**,  
 with a strong focus on **Python-based development** and **data-driven applications**.  
 I also enjoy building web apps and exploring modern backend technologies.
 
 ---
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](YOUR_X_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
+
 
 ---
 
@@ -40,8 +40,8 @@ I also enjoy building web apps and exploring modern backend technologies.
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthiknair3002&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthiknair3002&layout=compact&theme=dark)
 
 ---
 
