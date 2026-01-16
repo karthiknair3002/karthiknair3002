@@ -39,10 +39,4 @@ I also enjoy building web apps and exploring modern backend technologies.
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthiknair3002&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthiknair3002&layout=compact&theme=dark)
-
----
-
 ⭐ *Always learning, always building.*
