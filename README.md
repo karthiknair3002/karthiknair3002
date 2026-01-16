@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png" alt="Karthik Nair Banner" />
+</p>
+
+
 # 👋 Hi, I'm Karthik Nair
 
 <p align="center">
