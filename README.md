@@ -64,16 +64,14 @@ I also enjoy building **scalable web applications** and exploring **modern backe
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthiknair3002&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthiknair3002&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=karthiknair3002&show_icons=true&theme=dark" />
 </p>
-
----
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=karthiknair3002&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=karthiknair3002&theme=dark" />
 </p>
+>
 
 ---
 
